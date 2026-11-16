@@ -1,0 +1,10 @@
+# Generated Proteus files and simulation outputs
+*.pdsbak
+*.workspace
+*.log
+*.tmp
+*.bak
+*.LST
+*.SDF
+__pycache__/
+.DS_Store
